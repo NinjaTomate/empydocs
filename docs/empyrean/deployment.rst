@@ -36,17 +36,7 @@ http://blog.bob131.so/2015/02/24/deploying-empyrean-redux.html)
 
 Yahweh :ref:`Yahweh first time setup`
 
-Distribution-specific instructions
-----------------------------------
-
-Debian 8 and older
-~~~~~~~~~~~~~~~~~~
-
 pymongo versions later than 2.8 are known to not work.
-
-Additional dependencies:
-
--  ``python3-cffi``
 
 If using pip:
 
