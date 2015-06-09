@@ -160,6 +160,13 @@ different domains. Empyrean uses this option to determine what the
 complete URL is for files, and in this option's absence it will assume
 its the same as the hostname the request was made on.
 
+``STDERR_LOG``
+^^^^^^^^^^^^^^
+
+    Type: ``bool``
+
+Set this value to log requests and dump tracebacks to stderr.
+
 ``WEB_REDIRECT``
 ^^^^^^^^^^^^^^^^
 
