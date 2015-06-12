@@ -18,7 +18,6 @@ Table of Contents
       webserver <#step-3-configuring-your-webserver>`__
    -  `Step 4: Configuring uWSGI <#step-4-configuring-uwsgi>`__
    -  `Step 5: Adding accounts <#step-5-adding-accounts>`__
-   -  `Congratulations! <#congratulations>`__
 
 Dependencies
 ------------
